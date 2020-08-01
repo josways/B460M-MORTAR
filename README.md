@@ -1,13 +1,16 @@
 # B460M-MORTAR
-OPENCORE  EFI  5.9
 
-[感谢远景大佬 dust26 ](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472) ，我只是大自然的搬运工。
+## OPENCORE  EFI  5.9
 
-版本：10.15.5 (19F101) 
+### [感谢远景大佬 dust26 ](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472) ，我只是大自然的搬运工。
 
-版本：10.15.6 (19G73)
+## 支持的版本
 
-我的配置 
+### 版本：10.15.5 (19F101) 
+
+### 版本：10.15.6 (19G73)
+
+## 我的配置 
 
 |   部件   |        型号         |
 | :------: | :-----------------: |
@@ -20,7 +23,7 @@ OPENCORE  EFI  5.9
 
 
 
-安装说明：Windows下
+## 安装说明：Windows下
 
 1. `TransMac` 恢复到U盘。
 
