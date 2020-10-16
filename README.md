@@ -1,14 +1,16 @@
 # B460M-MORTAR
 
-## OPENCORE  EFI  5.9
+## iMac: 20,1  And OPENCORE: 6.1
 
-### [感谢远景大佬 dust26 ](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472) ，我只是大自然的搬运工。
+[感谢远景大佬 dust26 ](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472) ，我只是大自然的搬运工。
+
+
 
 ## 支持的版本
 
-### 版本：10.15.5 (19F101) 
+版本：[10.15.6 ](https://blog.daliansky.net/macOS-Catalina-10.15.6-19G73-Release-version-with-Clover-5119-original-image-Double-EFI-Version-UEFI-and-MBR.html)  [\(19G2021\)](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)  及更高.
 
-### 版本：10.15.6 (19G73)
+
 
 ## 我的配置 
 
@@ -39,7 +41,10 @@
 
    ![](https://images.gitee.com/uploads/images/2020/0706/113528_a37a8a62_1789893.png "屏幕截图.png")
 
-   
 
 
+
+## 更新 2020-09-13 版本.
+
+![](https://images.gitee.com/uploads/images/2020/1016/094809_be72c67c_1789893.jpeg "5{[8~2MO9%U%G2}7ZP@SPJC.jpg")
 
