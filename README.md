@@ -1,9 +1,7 @@
-# B460M-MORTAR
+# B460M-MORTAR EFI
 
-## iMac: 20,1  And OPENCORE: 6.1
-
+## 
 [感谢远景大佬 dust26 ](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472) ，我只是大自然的搬运工。
-
 
 
 ## 支持的版本
@@ -26,6 +24,12 @@
 
 
 ## 安装说明：Windows下
+
+1. 下载
+`
+git clone https://github.com/josways/B460M-MORTAR.git
+`
+或直接 右上角的 绿色 Code 按钮 选择 Download Zip
 
 1. `TransMac` 恢复到U盘。
 
