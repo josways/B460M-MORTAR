@@ -8,7 +8,7 @@
 
 ## 支持的版本
 
-版本：[10.15.6 ](https://blog.daliansky.net/macOS-Catalina-10.15.6-19G73-Release-version-with-Clover-5119-original-image-Double-EFI-Version-UEFI-and-MBR.html)  [\(19G2021\)](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)  及更高.
+版本：Catalina [10.15.7 ](https://blog.daliansky.net/macOS-Catalina-10.15.6-19G73-Release-version-with-Clover-5119-original-image-Double-EFI-Version-UEFI-and-MBR.html)及更高，Big Sur 11
 
 
 
@@ -44,7 +44,10 @@
 
 
 
-## 更新 2020-09-13 版本.
+## 更新 2020-11-06 版本.
 
-![](https://images.gitee.com/uploads/images/2020/1016/094809_be72c67c_1789893.jpeg "5{[8~2MO9%U%G2}7ZP@SPJC.jpg")
+**2020年11月6**号更新一个最新版efi基于oc0.6.3正式版，机型使用最新的iMac20,1，更新了所有插件到最新版，声卡id使用了APPLEALC最新版微星主板定制的ID 11，适配度更高，精简了一些插件，config文件里加入了适配5000系列显卡的（需要自己改名）,最新添加了适用于集成显卡的config文件（只适用于主板dp接口），**只适用于最新版10.15.7系统**，big sur系统理论上也能用但我自己没测试，风险自己承担
 
+## 更新 2020-12-13 版本.
+
+**2020年12月7日**小更新一下核显部分代码，适配最新版whatevergreen，实测fcpx预览更流畅（big sur系统也已经测试没问题了）,同时更新所有插件到最新版
